@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "878374795114",
+    "firebase_url": "https://uas-app-43056-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "uas-app-43056",
+    "storage_bucket": "uas-app-43056.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:878374795114:android:5018f764a2463fab41d713",
+        "android_client_info": {
+          "package_name": "com.asrori201011401455.uas_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "878374795114-v5l3h3dg1772i6fj5fth5npor0hvp7kt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUu8t-AWPdGO4w7RE52vyLH9eNSriBI0s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "878374795114-v5l3h3dg1772i6fj5fth5npor0hvp7kt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
